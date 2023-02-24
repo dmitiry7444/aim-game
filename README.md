@@ -1,6 +1,6 @@
 # aim-game
 Game on JavaScript
 
-
-#Deploy
+ 
+# Deploy
 https://dmitiry7444.github.io/aim-game/
